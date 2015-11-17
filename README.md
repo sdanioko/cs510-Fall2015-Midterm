@@ -17,7 +17,7 @@ Midterm Project : " Euler and Runga Kutta Methods "
  curves( of 4th order) as springboards in order to achieve better approximations.
 
  This project aims at investigating the Euler and the Runge Kutta Methods; two well known techniques for solving systems
- of differential equations. For, study we have investigated the effects of some parameters, such as the initial conditions,
+ of differential equations. For,  we have investigated the effects of some parameters, such as the initial conditions,
  the time step size, the choice of the icrement on the solutions of a given system of differential equations.
  
  From this project, we can retain  that : 1-Despite that the euler methode being very simple to be implimented, it just 
