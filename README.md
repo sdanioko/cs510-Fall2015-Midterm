@@ -4,7 +4,7 @@ Midterm Project : " Euler and Runga Kutta Methods "
 
  * Brief description of the  Euler's Method
    Euler's method is a straight-forward first order method that estimates the next point based on the rate of change at 
-   the current point. Euler method is mainly baed on approximating the graph of a solution with a sequence of tangeante
+   the current point. Euler method is mainly baed on approximating the graph of a solution with a sequence of tangente
    approximations computed sequentially in setps. 
        
  * Brief description of the Runge  Kutta's Methods
@@ -51,5 +51,5 @@ Midterm Project : " Euler and Runga Kutta Methods "
         crash and continue to work on invalide data.
 
      d- Explorer Attractor.ipynb : This file displays the empirical results obtained from answering to the series of questions 
-	outlined in the problem and that constitue the main goals of the project.Whenever one has to use any methods of the
+	outlined in the problem set  and which constitue the main goals of the project.Whenever one has to use any methods of the
 	Attractor class, they have first to define an object of type Attractor and then access the targeted method.  
